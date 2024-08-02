@@ -10,8 +10,10 @@ Olá! Eu sou um estudante de Sistemas de Informação na Universidade Federal de
 - 💡 **Hard Skills**:
   - **Linguagens de Programação**: Python (pandas, numpy, seaborn, matplotlib.pyplot), SQL , C++
   - **Machine Learning**: Classificação, Regressão, Clustering, Apriori, Eclat
+  - **Processamento de Linguagem Natural**: Classificação de sentimentos, nuvem de palavras
   - **Visualização de Dados**: Criação de gráficos e dashboards informativos
   - **Pensamento Analítico**: Capacidade de resolver problemas através de análises detalhadas
+  - **Matemática**: Cálculo, Geometria análitica e Algebra Linear 
 
 
 ## Contato
